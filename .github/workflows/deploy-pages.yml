@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+
 env:
   REACT_APP_DEPLOY_ENV: pages
 jobs:
